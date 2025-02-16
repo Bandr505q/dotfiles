@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bandr.khald.q@gmail.com
+	name = Bandar Al-Qahtani
